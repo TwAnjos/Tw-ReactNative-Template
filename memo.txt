@@ -1,10 +1,10 @@
 
+Criando projeto com expo
+npx create-expo-app IosReact
 
 
-npm i yarn --global
+npx expo install react-dom react-native-web @expo/webpack-config
 
-
-sudo chown -R usr ~/.npm
 
 
 
