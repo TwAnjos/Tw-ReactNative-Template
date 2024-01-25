@@ -1,0 +1,2 @@
+npx create-expo-app my-app
+npx expo install expo-sqlite
