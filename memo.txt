@@ -1,2 +1,7 @@
 npx create-expo-app my-app
 npx expo install expo-sqlite
+
+npm run start
+npm run android
+- npm run ios # you need to use macOS to build the iOS project - use the Expo app if you need to do iOS development without a Mac
+- npm run web
