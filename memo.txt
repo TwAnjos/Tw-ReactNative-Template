@@ -2,8 +2,14 @@
 Criando projeto com expo
 npx create-expo-app IosReact
 
-
 npx expo install react-dom react-native-web @expo/webpack-config
+
+
+To Run Project at first time.
+npm install
+
+npx expo start
+
 
 
 
